@@ -1,1 +1,17 @@
 .venv
+
+# Ignore Python bytecode
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+my-site/
+
+# Ignore database files
+db.sqlite3
+
+# Ignore static files
+mystaticfiles/
+
+# Ignore other files you don't want to push
+*.log

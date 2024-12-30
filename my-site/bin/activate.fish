@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/davl/FOR-CHARTS/django-python/my-site
+set -gx VIRTUAL_ENV /home/davl/FOR-CHARTS/django-python/Django-pet/my-site
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
