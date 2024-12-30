@@ -1,0 +1,19 @@
+{% load static %}
+
+
+<link rel="stylesheet" href="{% static 'global-style.css' %}">
+
+<table border='1'>
+    <tr>
+      <th>ID</th>
+      <th>Firstname</th>
+      <th>Lastname</th>
+    </tr>
+    {% for player in mymembers %}
+      <tr>
+        <td>{{ player.id }}</td>
+          <td>{{ player.firstname }}</td>
+        <td>{{ player.lastname }}</td>
+      </tr>
+    {% endfor %}
+  </table>
