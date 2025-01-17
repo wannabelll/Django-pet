@@ -23,7 +23,7 @@ myworld
   Unix/MacOS:
     source myworld/bin/activate
 5) Install dependencies from "requirements.txt" file
-    python -r .\my_team\requirements.txt install
+    pip install -r .\my_team\requirements.txt 
 6) To run project:
    python .\my_team\manage.py runserver
 
@@ -35,4 +35,7 @@ January xx, xxxx - xx:xx:xx
 Django version x.x.x, using settings 'my_team.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
+
+![image](https://github.com/user-attachments/assets/3af4165b-d7ca-441c-a613-1889cc766578)
+
 
