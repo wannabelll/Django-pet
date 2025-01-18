@@ -7,7 +7,7 @@ To run locally:
    pip --version
 3) Create a virtual environment for project:
    Windows:
-     python -m venv myworld
+   python -m venv myworld
    Unix/MacOS:
      python -m venv myworld
 This will set up a virtual environment, and create a folder named "myworld" with subfolders and files, like this:
