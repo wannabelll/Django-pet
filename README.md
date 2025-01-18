@@ -1,5 +1,5 @@
 # Django-pet inspired by https://www.w3schools.com/django/index.php
-To run locally:
+*** To run locally:
 1) Upload code into your machine:
    https://github.com/wannabelll/Django-pet.git
 2) You must install python and PIP on your system:
@@ -36,5 +36,16 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 
 ![image](https://github.com/user-attachments/assets/3af4165b-d7ca-441c-a613-1889cc766578)
+
+
+
+*** To deploy to AWS Elastic Beanstalk via Terraform:
+1) Have AWS Account and create a new User or use existing one with appropriate permissions
+2) Install AWS CLI by docs: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+3) Login to AWS CLI using "aws configure" command
+4) Install Terraform: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+5) Run commands: "terraform init", "terraform plan", "terraform apply"
+6) 
+
 
 
