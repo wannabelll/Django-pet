@@ -1,9 +1,9 @@
 # Django-pet inspired by https://www.w3schools.com/django/index.php
 
 To run locally:
-1) Upload code into your machine
+1) Upload code into your machine:
    https://github.com/wannabelll/Django-pet.git
-2) You must install python and PIP on your system
+2) You must install python and PIP on your system:
    python --version
    pip --version
 3) Create a virtual environment for project:
@@ -22,7 +22,7 @@ myworld
     myworld\Scripts\activate.bat 
   Unix/MacOS:
     source myworld/bin/activate
-5) Install dependencies from "requirements.txt" file
+5) Install dependencies from "requirements.txt" file:
     pip install -r .\my_team\requirements.txt 
 6) To run project:
    python .\my_team\manage.py runserver
