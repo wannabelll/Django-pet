@@ -46,6 +46,6 @@ Quit the server with CTRL-BREAK.
 4) Install Terraform: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 5) Run commands: "terraform init", "terraform plan", "terraform apply"
 6) 
-
+7)
 
 
