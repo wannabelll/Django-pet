@@ -1,5 +1,4 @@
 # Django-pet inspired by https://www.w3schools.com/django/index.php
-№
 To run locally:
 1) Upload code into your machine:
    https://github.com/wannabelll/Django-pet.git
