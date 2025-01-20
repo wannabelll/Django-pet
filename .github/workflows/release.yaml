@@ -15,7 +15,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v3
         with:
-          # list of Docker images to use as base name for tags
+          # list of Docker images to use as base name for  tags
           images: |
             wannabelll/django-pet
           # generate Docker tags based on the following events/attributes
